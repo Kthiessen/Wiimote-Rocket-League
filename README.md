@@ -1,2 +1,4 @@
 # Wiimote-Rocket-League
-FreePIE script to translate wiimote motions into joystick motions
+This script was created for a python based program called FreePIE.
+
+It translates the wii remotes motion controls into virtual joystick movements (using vJoy)
